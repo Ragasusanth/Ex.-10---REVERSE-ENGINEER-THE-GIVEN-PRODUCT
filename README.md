@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 28/12/2024 
+### DATE: 25/11/2024 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -33,7 +33,7 @@
 ## Input:
 
 ### Output:
-![image](https://github.com/user-attachments/assets/266f492c-cb39-47d3-8c1e-176345565822)
+![image](https://github.com/user-attachments/assets/91095ffe-06fb-4cdd-9570-f49b2f914130)
 
 
 ### Name: Raga.Susanth
